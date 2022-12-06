@@ -1,7 +1,7 @@
 
 # Video explicando la aplicacion y el codigo:
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=Uxdep7FqLlg)
+[![Alt text](https://i9.ytimg.com/vi/Uxdep7FqLlg/mq2.jpg?sqp=CLyhvZwG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGE8gUyhlMA8=&rs=AOn4CLA6gXKSIchtz20k7LDEMocKSPRyAQ)](https://www.youtube.com/watch?v=Uxdep7FqLlg)
 
 
 
