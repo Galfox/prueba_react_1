@@ -1,3 +1,14 @@
+
+# Video explicando la aplicacion y el codigo:
+
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=Uxdep7FqLlg)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
